@@ -1,3 +1,3 @@
 # Apigee
 Apigee
-Yaml file for Apigee testing for YAML testing
+Yaml file for Apigee training and YAML testing
